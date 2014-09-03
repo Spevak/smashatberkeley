@@ -8,6 +8,7 @@
 	<script type="text/javascript" src="js/bjqs-1.3.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/index.css"/>
 	<link rel="stylesheet" type="text/css" href="css/bjqs.css"/>
+        <link rel="icon" type="image/png" href="images/club_photo.png"/>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800" rel="stylesheet" type="text/css"/>
 </head>
 <body>

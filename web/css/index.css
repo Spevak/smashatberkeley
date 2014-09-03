@@ -1,0 +1,196 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	margin: 0;
+	background: rgb(248, 248, 248);
+	background-image: url('../images/bg.png');
+}
+#nav {
+	width: 100%;
+	height: 80px;
+	position: absolute;
+	top: 0;
+	z-index: 1;
+	background-color: rgba(1,84,130, 0.55);
+	display:block;
+}
+#links {
+	list-style:none;
+	text-align: center;
+	padding: 0;
+	margin-top: 30px;
+	color: rgb(248, 248, 248);
+}
+#links a {
+	text-decoration:none;
+	color: inherit;
+}
+#links a:visited {
+	text-decoration:none;
+	color: inherit;
+}
+#links a:hover {
+	color:rgb(183,135,39);
+}
+.bjqs-markers li a {
+	text-decoration: none;
+	padding: 6px 12px;
+	margin: 3px;
+	background-color: rgba(1,84,130, 0.4);
+}
+.active-marker a {
+	background-color: rgb(1,84,130) !important;
+}
+.bjqs-markers li a {
+	text-decoration: none;
+	color: white;
+}
+#links li {
+	display: inline;
+	padding-left: 9px;
+	padding-right: 9px;
+	font-weight: 300;
+	text-transform: uppercase;
+	font-size: 14;
+}
+#welcome {
+	margin-left:auto;
+	margin-right:auto;
+	text-align:center;
+	margin-top: 115px;
+	font-weight:600;
+	font-size:30;
+}
+#drawing {
+	height: 200%;
+	width: 100%;
+	position: absolute;
+}
+#content {
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+#norcal-slideshow {
+	top: 0;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 85px;
+}
+#mobile_logo {
+	display: none;
+}
+@media only screen and (max-width: 620px) {
+    #norcal-slideshow {
+        display: none;
+    }
+    #tweets {
+    	display:none;
+    }
+    #mobile_logo {
+    	display:block;
+    	float: left;
+    }
+    #club_photo {
+    	display: none;
+    }
+    #text-container {
+    	margin-top: 95px;
+    }
+    #events-wrapper {
+    	width: 100% !important;
+    }
+    #events {
+    	width: 100% !important;
+    }
+}
+.bjqs-controls li a {
+	background-color: rgba(255,255,255,0.7);
+	color:  rgb(1,84,130);
+	text-decoration: none;
+	padding: 5px 15px;
+	font-size: 18;
+}
+.bjqs-caption {
+	text-align: center;
+	background-color:  rgba(1,84,130, 0.6);
+	color: white;
+	
+}
+#text-container {
+	width: 85%;
+	max-width: 1000px;
+	margin-left:auto;
+	margin-right:auto;
+	z-index: 0;
+	background: rgba(248,248,248,0.4);
+	padding-top: 1px;
+	padding-right: 5px;
+}
+.bold {
+	font-weight:900;
+	text-transform:uppercase;
+	font-size:18;
+}
+.eventsbold {
+	font-weight:900;
+	font-size:16;
+}
+#club_photo {
+	width: 160px;
+	height: 160px;
+	margin-right:20px;
+	float:left;
+	z-index: 1;
+	position:absolute;
+}
+#mission-text{
+	font-size: 20;
+	margin-left: 12px;
+	margin-top: -8px;
+}
+#events-wrapper {
+	width: 50%;
+	float:left;
+}
+#tweets {
+	width: 49%;
+	float:left;
+}
+#events {
+	margin:0;
+	padding: 0;
+	width: 85%;
+}
+#description {
+	margin-bottom:50px;
+	margin-left: 12px;
+}
+#description p {
+	padding-bottom: 8px;
+}
+.event-header {
+	padding: 9px 0 9px 10px;
+}
+.date {
+	display: block;
+}
+.info {
+	float:left;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.maininfo {
+	padding: 5px 10px;
+}
+.etitle {
+	display:block;
+}
+.venue {
+	display: block;
+}
+table,  td {
+	border: 1px solid rgb(230,230,230);
+	border-collapse: collapse;
+	border-radius: 5px;
+	background: white;
+}

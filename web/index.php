@@ -30,7 +30,7 @@
 				<li><img src="images/arcadian.jpg" alt="Smash Bros in the thriving NorCal scene" title="Smash Bros in the thriving NorCal scene"/></li>
 				<li><img src="images/arcadian2.jpg" alt="Smash Bros in the thriving NorCal scene (2)" title="Smash Bros in the thriving NorCal scene (2)"/></li>
 				<li><img src="images/foundry.jpg" alt="Some of our club execs help plan this SF game night" title="Some of our club execs help plan this SF game night"/></li>
-				<li><img src="images/foundrystage.jpg" alt="The main stage at the SF game night"/></li>
+				<li><img src="images/foundrystage.jpg" alt="The main stage at the SF game night" title="The main stage at the SF game night"/></li>
 			</ul>
 		</div>
 	</div>

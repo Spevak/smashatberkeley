@@ -8,7 +8,7 @@
 	<script type="text/javascript" src="js/bjqs-1.3.js"></script>
 	<link rel="stylesheet" type="text/css" href="css/index.css"/>
 	<link rel="stylesheet" type="text/css" href="css/bjqs.css"/>
-        <link rel="icon" type="image/png" href="images/club_photo.png"/>
+	<link rel="icon" type="image/png" href="images/club_photo.png"/>
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,800" rel="stylesheet" type="text/css"/>
 </head>
 <body>
@@ -30,6 +30,7 @@
 				<li><img src="images/arcadian.jpg" alt="Smash Bros in the thriving NorCal scene" title="Smash Bros in the thriving NorCal scene"/></li>
 				<li><img src="images/arcadian2.jpg" alt="Smash Bros in the thriving NorCal scene (2)" title="Smash Bros in the thriving NorCal scene (2)"/></li>
 				<li><img src="images/foundry.jpg" alt="Some of our club execs help plan this SF game night" title="Some of our club execs help plan this SF game night"/></li>
+				<li><img src="images/foundrystage.jpg" alt="The main stage at the SF game night"/></li>
 			</ul>
 		</div>
 	</div>
